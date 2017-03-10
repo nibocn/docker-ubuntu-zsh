@@ -1,4 +1,4 @@
-FROM nibo/ubuntu:16.04
+FROM nibo/ubuntu:16.04-163
 MAINTAINER Richard<nibocn@gmail.com>
 
 RUN apt-get update \
